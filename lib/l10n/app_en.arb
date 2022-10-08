@@ -1,0 +1,20 @@
+{
+  "app_title": "Islami",
+  "quran": "Quran",
+  "hadeth": "Hadeth",
+  "hadeths": "Hadeths",
+  "tasbeh": "Tasbeh",
+  "radio": "Radio",
+  "surah_name": "Surah name",
+  "number_of_verses":"Ayat count" ,
+  "settings": "Settings",
+  "subhan_allah": "Subhan Allah",
+  "alhamd_lilhi": "Alhamd Lilhi",
+  "la_alih_alaAllah": "La Alih Ala Allah",
+  "allah_akbiri": "Allah Akbiri",
+  "the_number_of_tasbeehs":"The number of tasbeehs",
+  "language": "Language",
+  "theme": "Theme",
+  "light": "Light",
+  "dark": "Dark"
+}
