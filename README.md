@@ -1,18 +1,4 @@
 # islami_app
  
-![Screenshot_1665228217](https://user-images.githubusercontent.com/93128332/203160354-5a9ed368-4087-44a0-90e5-6cb9e07cc3af.png)
-![Screenshot_1665228220](https://user-images.githubusercontent.com/93128332/203160370-2d512fe6-bfef-4eff-b09c-c065aaa83d53.png)
-![Screenshot_1665228224](https://user-images.githubusercontent.com/93128332/203160382-d0b55841-dbb9-4dd0-b196-7086d4b55f7c.png)
-![Screenshot_1665228232](https://user-images.githubusercontent.com/93128332/203160392-0bd2ad2b-50bc-4ede-a6f7-010ddf8fb093.png)
-![Screenshot_1665228238](https://user-images.githubusercontent.com/93128332/203160409-e4ab9ad5-590a-402f-8cc7-1948357d61ba.png)
-![Screenshot_1665228255](https://user-images.githubusercontent.com/93128332/203160425-8f623762-592e-444a-b192-d7d30670eabf.png)
-![Screenshot_1665228261](https://user-images.githubusercontent.com/93128332/203160437-9d452628-bbe6-4e2f-a8fc-528bfb4a5646.png)
-![Screenshot_1665228265](https://user-images.githubusercontent.com/93128332/203160449-e4f93e8d-feec-4d52-973f-35adf8e7277f.png)
-![Screenshot_1665228270](https://user-images.githubusercontent.com/93128332/203160473-b8810b6c-7fee-4e4c-a42e-59b30a50cdb7.png)
-![Screenshot_1665228277](https://user-images.githubusercontent.com/93128332/203160491-faa89fbf-148a-491f-ad7f-09a94a0ad97d.png)
-![Screenshot_1665228280](https://user-images.githubusercontent.com/93128332/203160506-d4d0b5cd-85e0-4b9c-af99-74f5e073a3f1.png)
-![Screenshot_1665228288](https://user-images.githubusercontent.com/93128332/203160522-f61e3442-5898-4fe8-964f-60f11846ea2b.png)
-![Screenshot_1665228291](https://user-images.githubusercontent.com/93128332/203160542-161908ca-ee7f-44a2-8b44-ce60d6ec4e4f.png)
-![Screenshot_1665228295](https://user-images.githubusercontent.com/93128332/203160551-b40fcb96-f5ca-4c65-88d6-a2038a3c59d5.png)
-![Screenshot_1665228206](https://user-images.githubusercontent.com/93128332/203160556-1a45f3d4-9fb4-45eb-8931-db11d0f2c711.png)
-![Screenshot_1665228210](https://user-images.githubusercontent.com/93128332/203160576-3663cf4a-fb30-4b50-ad90-cb5396a3d025.png)
+ ![by  Moktar Mohamed](https://user-images.githubusercontent.com/93128332/224476321-df9c4417-9300-4b81-b8f7-515ff7197849.png)
+
